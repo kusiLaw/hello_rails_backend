@@ -26,7 +26,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 React Rails Hello World   <a name="about-project"></a>
+# 📖 Hello Rails Backend   <a name="about-project"></a>
 
 > Hello Rails is a simple rails API backend that return random message upon request.
 
