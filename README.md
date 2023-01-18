@@ -87,7 +87,7 @@
 > Add a link to your deployed project.
 
 - [Live Demo Link comming soon]( https://budgisee) 
-
+- [Frontend Repo Link]( https://github.com/kusiLaw/-hello-react-front-end) 
 
 <!-- GETTING STARTED -->
 
